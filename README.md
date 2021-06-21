@@ -5,11 +5,11 @@ This is a record for the AICUP-rice competition
 
 【程式碼】
 
-analysis_figure：建立各種分析圖表程式碼
+analysis_figure.ipynb：建立各種分析圖表程式碼
 
-Chen_aicup_rice：主要訓練、預測程式碼
+Chen_aicup_rice.ipynb：主要訓練、預測程式碼
 
-Chen_preprocess：資料前處理程式碼
+Chen_preprocess.ipynb：資料前處理程式碼
 
 【資料夾內容】
 
