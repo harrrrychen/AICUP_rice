@@ -11,11 +11,11 @@ Chen_aicup_rice.ipynb：主要訓練、預測程式碼
 
 Chen_preprocess.ipynb：資料前處理程式碼
 
-【資料夾內容】
+【資料夾內容】-->尚未上傳
 
 exp_result：存放不同實驗中，評估集、訓練集的dice_corfficient以及loss的csv檔以及分析圖
 
-predict_test_private：存放不同實驗的競賽測試private集預測結果，包含CSV檔以及水稻預測位置圖
+predict_test_private(檔案太大尚未上傳)：存放不同實驗的競賽測試private集預測結果，包含CSV檔以及水稻預測位置圖
 
 predict_test_public：存放不同實驗的競賽測試private集預測結果，包含CSV檔以及水稻預測位置圖
 
