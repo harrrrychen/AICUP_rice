@@ -1,4 +1,4 @@
-# AICUP_rice
+# AICUP_RICE
 This is a record for the AICUP-rice competition
 
 本資料夾存放2021 AICUP 「水稻無人機全採影像植株位置自動標註與應用」
